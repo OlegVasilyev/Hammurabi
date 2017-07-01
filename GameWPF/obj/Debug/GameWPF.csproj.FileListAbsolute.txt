@@ -1,0 +1,14 @@
+c:\users\user\documents\visual studio 2017\Projects\GameWPF\GameWPF\bin\Debug\GameWPF.exe.config
+c:\users\user\documents\visual studio 2017\Projects\GameWPF\GameWPF\bin\Debug\GameWPF.exe
+c:\users\user\documents\visual studio 2017\Projects\GameWPF\GameWPF\bin\Debug\GameWPF.pdb
+c:\users\user\documents\visual studio 2017\Projects\GameWPF\GameWPF\obj\Debug\GameWPF.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2017\Projects\GameWPF\GameWPF\obj\Debug\MainWindow.g.cs
+c:\users\user\documents\visual studio 2017\Projects\GameWPF\GameWPF\obj\Debug\App.g.cs
+c:\users\user\documents\visual studio 2017\Projects\GameWPF\GameWPF\obj\Debug\GameWPF_MarkupCompile.cache
+c:\users\user\documents\visual studio 2017\Projects\GameWPF\GameWPF\obj\Debug\GameWPF_MarkupCompile.lref
+c:\users\user\documents\visual studio 2017\Projects\GameWPF\GameWPF\obj\Debug\MainWindow.baml
+c:\users\user\documents\visual studio 2017\Projects\GameWPF\GameWPF\obj\Debug\GameWPF.g.resources
+c:\users\user\documents\visual studio 2017\Projects\GameWPF\GameWPF\obj\Debug\GameWPF.Properties.Resources.resources
+c:\users\user\documents\visual studio 2017\Projects\GameWPF\GameWPF\obj\Debug\GameWPF.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2017\Projects\GameWPF\GameWPF\obj\Debug\GameWPF.exe
+c:\users\user\documents\visual studio 2017\Projects\GameWPF\GameWPF\obj\Debug\GameWPF.pdb
